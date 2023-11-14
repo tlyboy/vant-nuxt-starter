@@ -12,6 +12,7 @@ export default defineNuxtConfig({
     '@pinia/nuxt',
     '@pinia-plugin-persistedstate/nuxt',
     '@vueuse/nuxt',
+    '@vant/nuxt',
   ],
   colorMode: {
     classSuffix: '',

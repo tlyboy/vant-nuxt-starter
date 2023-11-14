@@ -39,3 +39,7 @@ body {
 .dark::view-transition-new(root) {
   z-index: 1;
 }
+
+:root:root {
+  --van-primary-color: #3498db;
+}
