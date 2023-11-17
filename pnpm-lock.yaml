@@ -43,9 +43,6 @@ devDependencies:
   '@vant/nuxt':
     specifier: ^1.0.4
     version: 1.0.4(vant@4.7.3)
-  '@vueuse/core':
-    specifier: ^10.6.1
-    version: 10.6.1(vue@3.3.8)
   '@vueuse/nuxt':
     specifier: ^10.6.1
     version: 10.6.1(nuxt@3.8.1)(vue@3.3.8)
