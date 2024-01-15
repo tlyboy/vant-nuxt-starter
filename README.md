@@ -1,11 +1,11 @@
-# my-app
+# vant-nuxt-starter
 
-🎉 My App
+🚀 Vant Nuxt starter
 
 ## 使用说明
 
 ```sh
-npx degit tlyboy/vant-nuxt-starter my-app
+npx degit tlyboy/vant-nuxt-starter my-new-project
 ```
 
 ## 使用许可
