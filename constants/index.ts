@@ -1,2 +1,2 @@
-export const appName = 'Vant Nuxt starter'
-export const appDescription = '🚀 Vant Nuxt starter'
+export const appName = 'My App'
+export const appDescription = '🎉 My App'
