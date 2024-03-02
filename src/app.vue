@@ -3,6 +3,9 @@ import { appName } from './constants'
 import '@vant/touch-emulator'
 
 useHead({
+  htmlAttrs: {
+    lang: 'zh-CN',
+  },
   title: appName,
   meta: [
     {
