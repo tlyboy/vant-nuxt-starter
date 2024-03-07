@@ -61,3 +61,7 @@ html.dark {
     @apply inline-block cursor-pointer select-none opacity-75 transition duration-200 ease-in-out hover:text-[#3498db] hover:opacity-100;
   }
 }
+
+:root:root {
+  --van-primary-color: #3498db;
+}
