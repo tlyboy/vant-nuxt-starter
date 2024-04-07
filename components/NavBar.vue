@@ -8,6 +8,6 @@
       target="_blank"
       rel="noopener noreferrer"
       title="GitHub"
-    />
+    ></a>
   </nav>
 </template>

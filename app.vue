@@ -20,12 +20,12 @@ const color = useColorMode()
 </script>
 
 <template>
-  <van-config-provider
+  <VanConfigProvider
     class="h-full"
     :theme="color.value === 'dark' ? 'dark' : 'light'"
   >
     <NuxtLayout>
       <NuxtPage />
     </NuxtLayout>
-  </van-config-provider>
+  </VanConfigProvider>
 </template>
