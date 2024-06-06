@@ -19,28 +19,28 @@
     "vue-router": "^4.3.2"
   },
   "devDependencies": {
-    "@egoist/tailwindcss-icons": "^1.8.0",
-    "@iconify-json/carbon": "^1.1.33",
+    "@egoist/tailwindcss-icons": "^1.8.1",
+    "@iconify-json/carbon": "^1.1.35",
     "@nuxtjs/color-mode": "^3.4.1",
     "@pinia-plugin-persistedstate/nuxt": "^1.2.0",
     "@pinia/nuxt": "^0.5.1",
     "@rushstack/eslint-patch": "^1.10.3",
     "@types/nprogress": "^0.2.3",
     "@vant/nuxt": "^1.0.4",
-    "@vue-macros/nuxt": "^1.9.32",
+    "@vue-macros/nuxt": "^1.9.36",
     "@vue/eslint-config-prettier": "^8.0.0",
     "@vue/eslint-config-typescript": "^12.0.0",
-    "@vueuse/core": "^10.9.0",
-    "@vueuse/nuxt": "^10.9.0",
+    "@vueuse/core": "^10.10.0",
+    "@vueuse/nuxt": "^10.10.0",
     "autoprefixer": "^10.4.19",
     "eslint": "^8.57.0",
     "eslint-plugin-vue": "^9.26.0",
     "postcss": "^8.4.38",
-    "prettier": "^3.2.5",
+    "prettier": "^3.3.1",
     "prettier-plugin-tailwindcss": "^0.5.14",
-    "tailwindcss": "^3.4.3"
+    "tailwindcss": "^3.4.4"
   },
-  "packageManager": "pnpm@9.0.4",
+  "packageManager": "pnpm@9.1.4",
   "engines": {
     "node": "20.x"
   }
