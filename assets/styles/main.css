@@ -61,5 +61,9 @@ html.dark {
 }
 
 :root:root {
-  --van-primary-color: #3498db;
+  --van-blue: #3498db;
+  --van-base-font: ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  --van-price-font: ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
